@@ -1,0 +1,70 @@
+Language name: Hyper Example Language Language (Hell)
+Memory management: TGC (Garbage Collection)
+Data Types:
+- Bool/Boolean
+- Number(s)
+- Strings
+- Tables/Dictionaries
+- Classes, teehee (maybe lol)
+
+Expressions:
+Arithmetic:
+- addition
+- subtraction (doubles as negate)
+- mutiplication
+- division
+- modulous
+- exponents
+- log
+
+comparison:
+- less than
+- less than equal to
+- greater than
+- greater than equal to
+- equal (false if not true)
+- not equal (false if not true)
+
+logic ops:
+- negate
+- and
+- or
+
+precedence:
+- mostly norm stuffs
+- bypass with paren(s)
+
+Statements:
+- make blocks/scopes with curlies
+Variables:
+- use var
+- global
+- local
+- can be nil
+Control Flow:
+- if statements
+- else if
+- else
+- while
+- for
+Functions:
+- use function
+- enclosed with curlies
+- ret for return
+- paren to accept args
+- ret nil by default
+- first class (fancy talk for, they act as standard values)
+- nestables
+- allow anonymous
+- can be global or local
+Classes:
+- use class
+- enclosed with curlies
+- have private and public data/methods
+- first class
+- self to access their own data
+- inherit with <
+
+the standard library:
+get good, i only like print. . .
+(nah ill do more if i get there, but it'll take a while)
